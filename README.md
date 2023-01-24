@@ -1,6 +1,6 @@
 # Misc. Python Projects
 
-A small collection of basic python scripts I made when I was first learning basic syntax, functions and flow control.
+A small collection of basic python scripts I made when I was first learning basic syntax, functions, and flow control.
 
 ## Scripts
 
